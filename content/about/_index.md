@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2019-10-29T07:49:23.000+00:00
-image: static/uploads/author.jpg
+image: uploads/author.jpg
 description: this is meta description
 
 ---
